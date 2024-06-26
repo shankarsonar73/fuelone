@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fuelone/static/css/main.4ce871d1.css",
+    "main.js": "/fuelone/static/js/main.a1e6af14.js",
+    "static/media/AuthFuelStation.gif": "/fuelone/static/media/AuthFuelStation.85a5b174e0a012fb693d.gif",
+    "static/media/createUserLogin.gif": "/fuelone/static/media/createUserLogin.a72384b2b6993b48765d.gif",
+    "static/media/loginLight.jpg": "/fuelone/static/media/loginLight.edc1dccdd50345ae40d0.jpg",
+    "static/media/qr.jpg": "/fuelone/static/media/qr.7034390958a6cccbf405.jpg",
+    "static/media/getStarted.png": "/fuelone/static/media/getStarted.2e285203bd7a1d04d329.png",
+    "index.html": "/fuelone/index.html",
+    "main.4ce871d1.css.map": "/fuelone/static/css/main.4ce871d1.css.map",
+    "main.a1e6af14.js.map": "/fuelone/static/js/main.a1e6af14.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce871d1.css",
+    "static/js/main.a1e6af14.js"
+  ]
+}
